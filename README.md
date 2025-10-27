@@ -31,7 +31,7 @@ ehsan-app/
 
 ## 🛠️ Technologies
 - **Backend:** Node.js, Express.js, MySQL  
-- **Frontend (Planned):** JavaFX  
+- **Frontend (Planned):** React
 - **Data:** CSV / Pandas / SQL Scripts  
 
 ---
