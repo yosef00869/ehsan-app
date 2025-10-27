@@ -1,11 +1,11 @@
-# 🌟 Ehsan App
+#  Ehsan App
 
 Ehsan App is a charity management system designed to streamline the process of managing beneficiaries, donations, and aid distribution.  
 The project consists of two main components: **Backend System** and **Data Analysis (Dataset)**.
 
 ---
 
-## 📁 Project Structure
+##   Project Structure
 ehsan-app/
 ├─ backend/ → Node.js + MySQL REST API
 ├─ dataset/ → Data cleaning, preparation & analysis
@@ -15,7 +15,7 @@ ehsan-app/
 
 ---
 
-## 🧩 Components
+##  Components
 
 ### 🔹 Backend
 - Built with Node.js, Express, and MySQL.
@@ -29,14 +29,14 @@ ehsan-app/
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 - **Backend:** Node.js, Express.js, MySQL  
 - **Frontend (Planned):** React
 - **Data:** CSV / Pandas / SQL Scripts  
 
 ---
 
-## 🧑‍💻 Contributors
+## Contributors
 - Yousef  Mabrook
 - Nourhan  Ashraf
 - Zeinab  Talaat
