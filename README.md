@@ -2,9 +2,9 @@
 #  Ehsan App
 =======
 <div align="center">
->>>>>>> c8fa253 (✨ Major Update: Professional README, Documentation & Diagrams)
+>>>>>>> c8fa253 ( Major Update: Professional README, Documentation & Diagrams)
 
-# 🤲 Ehsan App - Charity Management System
+#  Ehsan App - Charity Management System
 
 <img src="docs/ui-ux/logo.png" alt="Ehsan App Logo" width="200"/>
 
@@ -28,7 +28,7 @@
 
 **Ehsan App** is a comprehensive charity management system designed to help charitable organizations streamline their operations, manage volunteers, track donations, and organize fundraising campaigns efficiently. The platform eliminates paper-based chaos and provides administrators with powerful tools to manage all aspects of their charitable work.
 
-### 🎯 Problem Statement
+###  Problem Statement
 
 Charitable organizations often struggle with:
 - Manual paper-based record keeping
@@ -41,79 +41,79 @@ Charitable organizations often struggle with:
 
 ---
 
-## ✨ Features
+##  Features
 
-### 🔐 Authentication & Authorization
+###  Authentication & Authorization
 - Secure user login/logout system
 - Password reset functionality
 - Role-based access control (RBAC)
 - Session management
 - Multi-level permission system
 
-### 📁 Cases Management
+###  Cases Management
 - Create, read, update, and delete cases
 - Advanced search and filtering
 - Bulk operations for efficiency
 - Case status tracking and management
 - Complete case history
 
-### 📝 Requests Management
+###  Requests Management
 - Submit assistance requests
 - Approve/reject workflow
 - Real-time request tracking
 - Priority-based management
 - Request assignment system
 
-### 📊 Reports & Analytics
+###  Reports & Analytics
 - Generate comprehensive reports
 - Interactive data visualization
 - Export reports (PDF, Excel, CSV)
 - Custom report builder
 - Real-time analytics dashboard
 
-### 👥 User Management
+###  User Management
 - Complete CRUD operations for users
 - Role and permission management
 - User activity logging
 - Detailed user profiles
 - Access control management
 
-### ⚙️ System Settings
+###  System Settings
 - Manage assistance types
 - Configure notification preferences
 - System-wide preferences
 - Automated backup management
 - Customizable workflows
 
-### 📎 File Management
+###  File Management
 - Secure document upload
 - Organized file storage
 - Document preview functionality
 - File validation and security
 - Version control
 
-### 🎯 Campaign Management
+###  Campaign Management
 - Create and manage fundraising campaigns
 - Set and track campaign goals
 - Monitor campaign progress in real-time
 - Campaign analytics and reporting
 - Archive completed campaigns
 
-### 🙋 Volunteer Management
+###  Volunteer Management
 - Complete volunteer CRUD operations
 - Volunteer profile management
 - Registration and onboarding
 - Activity tracking
 - Performance evaluation
 
-### 🤝 Volunteer Campaign Participation
+### Volunteer Campaign Participation
 - Register volunteers to campaigns
 - Track attendance per campaign
 - Monitor tasks and assignments
 - Campaign-specific performance scoring
 - Volunteer contribution analytics
 
-### 🏆 Achievements & Badges System
+###  Achievements & Badges System
 - **Top Volunteer of the Month** recognition
 - **Top Volunteer of the Year** awards
 - **Medical Expert** badge
@@ -139,7 +139,7 @@ Charitable organizations often struggle with:
 
 ---
 
-## 📦 Installation
+##  Installation
 
 ### Prerequisites
 
@@ -224,7 +224,7 @@ Comprehensive documentation is available in the `docs/` directory:
 
 ---
 
-## 🖼️ Screenshots
+##  Screenshots
 
 <div align="center">
 
@@ -244,7 +244,7 @@ Comprehensive documentation is available in the `docs/` directory:
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 >>>>>>> c8fa253 (✨ Major Update: Professional README, Documentation & Diagrams)
@@ -289,7 +289,7 @@ ehsan-app/
 ##  Components
 =======
 ## 🧪 Testing
->>>>>>> c8fa253 (✨ Major Update: Professional README, Documentation & Diagrams)
+>>>>>>> c8fa253 ( Major Update: Professional README, Documentation & Diagrams)
 
 Run the test suite:
 
@@ -324,7 +324,7 @@ php artisan test --coverage
 - Hussien Fathy
 - Sherry Hany
 =======
-## 🤝 Contributing
+##  Contributing
 
 We welcome contributions! Please follow these steps:
 
@@ -338,7 +338,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 ---
 
-## 🔒 Security
+##  Security
 
 If you discover any security-related issues, please email security@ehsan.app instead of using the issue tracker.
 
@@ -350,7 +350,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 👥 Team
+##  Team
 
 - **Developers**: [Youssef Mabrook,Mohammed Ashraf,Mohammed Osama,Abdulaziz]
 - **Designers**: [Zeinab talaat,Hussien Fathy,Nourhan Ahraf,Sherry Hany]
